@@ -1,4 +1,5 @@
 // function componet
+// This is funtion componet hello sajal
 
 const Student = () => {
     return <h1> This is funtion componet hello sajal </h1>
